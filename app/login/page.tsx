@@ -14,7 +14,7 @@ const LoginPage = () => {
             <Button type="submit" className="bg-green-500 p-2 rounded-md text-white">Sign in</Button>
         </form>
         <hr className="my-3"/>
-        <p>Already have an account? go to <Link className="" href="/register">Register</Link> Page</p>
+        <p>Already have an account? go to  <Link className="" href="/register">Register</Link> Page</p>
     </div>
   )
 }
